@@ -8,6 +8,10 @@
     float: right;
 }
 
+.center {
+    float: center;
+}
+
 .container {
     overflow: hidden; /* Ensures proper layout clearing */
 }
